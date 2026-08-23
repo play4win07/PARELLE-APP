@@ -1,0 +1,6 @@
+{
+  "name": "AeroVoice - Gamer Voice Chat & Music Rooms",
+  "description": "Lightweight Android-first voice chat app for gamers with persistent private rooms, WebRTC voice communication, individual volume mixer, and embedded YouTube music playback.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
